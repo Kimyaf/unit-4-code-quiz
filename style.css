@@ -1,0 +1,75 @@
+* {
+    text-align: center;
+    color: white;
+}
+html,
+body{
+    height: 100%;
+}
+
+
+#game {
+    padding: 5%;
+    
+}
+
+
+
+h1 {
+    margin-right: auto;
+    margin-left: auto;
+    text-shadow: 5px 3px black;
+}
+#question{
+    margin:50px auto 50px auto;
+}
+
+#startGame,
+#questionBox,
+#answerBox,
+#results {
+    margin-top: 20px;
+}
+
+#answerBox,
+#questionBox {
+    padding: 20px;
+}
+
+span {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#firstButton{
+    margin-left: auto;
+}
+
+#lastButton{
+    margin-right: auto;
+}
+
+.answer{
+    font-size: 40px;
+}
+
+#timerBox{
+    padding:35px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#playAgain{
+    margin-top:70px;
+}
+#stats{
+    padding:35px;
+}
+
+.container{
+    justify-content: center;
+}
+
+p{
+    font-size: 50px;
+}
